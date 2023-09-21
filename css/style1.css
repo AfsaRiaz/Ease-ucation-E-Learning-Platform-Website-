@@ -1,0 +1,73 @@
+.bgimg{
+    background-image: url(../img/i.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+.headerset{
+    padding-top: 220px;
+    box-sizing: border-box;
+}
+.headerset h1{
+    font-size: 77px;
+    font-weight : bold;
+    /* font-family: cursive; */
+}
+.headerset p{
+    font-size: 20px;
+}
+.headerset button{
+    width:200px;
+    /* margin-right: 150px; */
+    border-radius: 20px;border-color: rgb(58, 52, 52);
+}
+.abc a span{
+    color: rgb(59, 206, 216);
+
+}
+
+
+
+.rowsetting{
+    margin: 80px 0px !important;
+}
+
+.drop{
+    background-color: black;
+}
+.heading{
+    margin-bottom: 20px;
+}
+
+/* ----------OUR SERVICES------------ */
+.ourservices{
+    padding: 100px 0px 60px;
+    height:700px;
+}
+.ourservices h{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rowsetting{
+     margin: 80px 0px !important;
+}
+.imgsetting{
+    border-radius: 50px !important;
+    height: 100px !important;
+    width: 100px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
